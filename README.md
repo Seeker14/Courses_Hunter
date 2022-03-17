@@ -1,1 +1,1 @@
-# Courses_Hunter
+# CourseHunter
