@@ -1,9 +1,9 @@
 package Lesson4.cl.ob.reference.data.types;
 
 public class PrimitiveAndReferenceDataTypes {
-    public static void main(String[] args) {
+    public static void main(UseString[] args) {
 
-        // разница между притичными и ссылочными типами данных
+        // разница между притивными и ссылочными типами данных
         int a; // переменная 'а' примитивного типа данных
         a = 10; // и если мы присвоим ей значение 10, то значение переменной 'a' равно 10
 

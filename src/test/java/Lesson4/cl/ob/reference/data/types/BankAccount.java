@@ -1,5 +1,7 @@
 package Lesson4.cl.ob.reference.data.types;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class BankAccount {
 
     int id;
@@ -18,7 +20,7 @@ public class BankAccount {
         // bA = имя переменной
         // new BankAccount() = значение переменной, в данном случае это вызов конструктора, создание объекта
         // за new всегда следуюет вызов конструктора
-        // new означает, что сейчас будет созаваться новый объект
+        // new означает, что сейчас будет создаваться новый объект
         // new BankAccount() = то есть сейчас будет создавться объект класса BankAccount
         // new BankAccount() создает в области памяти какой-то объект
         // что такое BankAccount? Любой класс является типом данных
@@ -67,15 +69,34 @@ public class BankAccount {
         HisAccount.balance = 124.12;
 
     } */
+    double popolnenieScheta(double popolnenie){
+        System.out.println("Баланс до пополнения: " + balance);
+        System.out.println("Баланс пополняется на: " + popolnenie);
+        balance += popolnenie;
+        System.out.println("Баланс после пополнения: " + balance);
+        System.out.println();
+        return balance;
+    }
+
+    double snyatieSoScheta(double snyatie){
+        System.out.println("Баланс до уменьшения: " + balance);
+        System.out.println("Баланс уменьшается на: " + snyatie);
+        balance -= snyatie;
+        System.out.println("Баланс после уменьшения: " + balance);
+        System.out.println();
+        return balance;
+    }
 }
 
  class BankAccountTest {
-    public static void main(String[] args) {
+    public static void main(UseString[] args) {
 
         BankAccount MyAccount = new BankAccount();
         BankAccount YourAccount = new BankAccount();
         BankAccount HisAccount = new BankAccount();
 
+        MyAccount.popolnenieScheta(30.5);
+        MyAccount.snyatieSoScheta(20.5);
         MyAccount.id = 1;
         //MyAccount.name = "Elena";
         MyAccount.balance = 12.35;

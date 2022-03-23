@@ -1,9 +1,7 @@
 package Lesson4.cl.ob.reference.data.types;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class ClassObject {
-    public static void main(String[] args) {
+    public static void main(UseString[] args) {
         // Для создания Объекта должен быть всегда какой-то Класс.
         // Класс - это своеобразный шаблон, по которому создаются объекты.
         // Класс - это перечень правил, атрибутов и действий, которые будут выполняться.
@@ -45,7 +43,7 @@ public class ClassObject {
 // в файле может и не быть public class, в таком случае название файла соответствует названию одного из классов
 // класс является executable, когда содержит в себе метод main, иначе его нельзя исполнить
  class Test1{
-    public static void main(String[] args) {
+    public static void main(UseString[] args) {
         System.out.println("Welcome!!!");
     }
 }
