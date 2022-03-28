@@ -1,11 +1,16 @@
+Homework/LessonSix.java
+ Homework.LessonSix
+ Homework.LessonSixTest
+Homework/Lesson6/Student.java
+ Homework.Lesson6.Student
+ Homework.Lesson6.StudentTest
 Lesson6/overloading/Test1.java
  Lesson6.overloading.Test1
 Lesson4/cl/ob/reference/data/types/ClassObject.java
  Lesson4.cl.ob.reference.data.types.ClassObject
  Lesson4.cl.ob.reference.data.types.Test1
-Homework/Lesson6.java
- Homework.Lesson6
- Homework.Lesson6Test
+Lesson1/print/println/Test1.java
+ Lesson1.print.println.Test1
 Lesson5/constructor/ExampleConstructor.java
  Lesson5.constructor.ExampleConstructor
  Lesson5.constructor.ExampleTest
@@ -58,6 +63,8 @@ Lesson3/operators/Assignment.java
 Homework/Employee.java
  Homework.Employee
  Homework.EmployeeTest
+Lesson7/modifiers/GoalPack2.java
+ Lesson7.modifiers.GoalPack2
 Lesson5/constructor/WithoutParametersConstr.java
  Lesson5.constructor.WithoutParametersConstr
  Lesson5.constructor.WithoutTest
@@ -75,5 +82,17 @@ Lesson4/cl/ob/reference/data/types/PrimitiveAndReferenceDataTypes.java
  Lesson4.cl.ob.reference.data.types.PrimitiveAndReferenceDataTypes
 Lesson3/operators/ProcessingSequence.java
  Lesson3.operators.ProcessingSequence
-Lesson1/print/println/Test1.java
- Lesson1.print.println.Test1
+Lesson7_1/TretiyClass.java
+ Lesson7_1.TretiyClass
+Lesson7/modifiers/GoalPack1.java
+ Lesson7.modifiers.GoalPack1
+Lesson7/modifiers/DrugoyClass.java
+ Lesson7.modifiers.DrugoyClass
+Lesson7/modifiers/Empoyee.java
+ Lesson7.modifiers.Empoyee
+ Lesson7.modifiers.EmpoyeeTest
+Homework/Lesson7.java
+ Homework.Lesson7
+ Homework.Lesson7Test
+Homework/Lesson7Two.java
+ Homework.Lesson7Two

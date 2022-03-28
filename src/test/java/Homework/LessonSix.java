@@ -1,6 +1,6 @@
 package Homework;
 
-public class Lesson6 {
+public class LessonSix {
     public int sum(){
         return 0;
     }
@@ -23,9 +23,9 @@ public class Lesson6 {
 
 }
 
-class Lesson6Test{
+class LessonSixTest{
     public static void main(String[] args) {
-        Lesson6 a1 = new Lesson6();
+        LessonSix a1 = new LessonSix();
         System.out.println(a1.sum());
         System.out.println(a1.sum(1));
         System.out.println(a1.sum(2, 3));

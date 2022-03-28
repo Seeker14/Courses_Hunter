@@ -7,7 +7,7 @@ public class Employee {
         id = id2;               // используется 'this'
     }
 
-    Employee(String surname3, int age3){
+    public Employee(String surname3, int age3){
         surname = surname3;
         age = age3;
     }
