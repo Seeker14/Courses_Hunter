@@ -1,16 +1,18 @@
+Lesson7_1/TretiyClass.java
+ Lesson7_1.TretiyClass
 Homework/LessonSix.java
  Homework.LessonSix
  Homework.LessonSixTest
-Homework/Lesson6/Student.java
- Homework.Lesson6.Student
- Homework.Lesson6.StudentTest
-Lesson6/overloading/Test1.java
- Lesson6.overloading.Test1
+Lesson4/cl/ob/reference/data/types/BankAccount.java
+ Lesson4.cl.ob.reference.data.types.BankAccount
+ Lesson4.cl.ob.reference.data.types.BankAccountTest
+Lesson3/operators/Logical.java
+ Lesson3.operators.Logical
 Lesson4/cl/ob/reference/data/types/ClassObject.java
  Lesson4.cl.ob.reference.data.types.ClassObject
  Lesson4.cl.ob.reference.data.types.Test1
-Lesson1/print/println/Test1.java
- Lesson1.print.println.Test1
+Lesson3/operators/Assignment.java
+ Lesson3.operators.Assignment
 Lesson5/constructor/ExampleConstructor.java
  Lesson5.constructor.ExampleConstructor
  Lesson5.constructor.ExampleTest
@@ -20,8 +22,16 @@ Lesson3/operators/Relational.java
  Lesson3.operators.Relational
 Lesson4/cl/ob/reference/data/types/Classes1.java
  Lesson4.cl.ob.reference.data.types.Classes1
+Lesson5/constructor/WithoutParametersConstr.java
+ Lesson5.constructor.WithoutParametersConstr
+ Lesson5.constructor.WithoutTest
 Lesson4/cl/ob/reference/data/types/UseString.java
  Lesson4.cl.ob.reference.data.types.UseString
+Homework/Lesson8.java
+ Homework.Lesson8
+Lesson5/constructor/ConceptMethod.java
+ Lesson5.constructor.ConceptMethod
+ Lesson5.constructor.Sum2
 Lesson5/constructor/Human.java
  Lesson5.constructor.BankAccount
  Lesson5.constructor.Car3
@@ -32,67 +42,19 @@ Lesson5/constructor/ConceptConstructor.java
  Lesson5.constructor.ConstuctorTest
 Homework/Lesson3.java
  Homework.Lesson3
-Homework/Lesson2.java
- Homework.Lesson2
-Lesson3/operators/Operators.java
- Lesson3.operators.Operators
-Lesson6/overloading/MethodOverloading2.java
- Lesson6.overloading.MethodOverloading2
- Lesson6.overloading.MethodOverloading2Test
-Homework/Student.java
- Homework.Student
- Homework.StudentTest
-Lesson4/cl/ob/reference/data/types/Car.java
- Lesson4.cl.ob.reference.data.types.Car
- Lesson4.cl.ob.reference.data.types.CarTest
-Lesson6/overloading/MethodOverloading.java
- Lesson6.overloading.MethodOverloading
- Lesson6.overloading.MethodOverloadingTest
-Lesson4/cl/ob/reference/data/types/BankAccount.java
- Lesson4.cl.ob.reference.data.types.BankAccount
- Lesson4.cl.ob.reference.data.types.BankAccountTest
-Lesson6/overloading/Employee.java
- Lesson6.overloading.Employee
- Lesson6.overloading.EmployeeTest
-Lesson3/operators/Logical.java
- Lesson3.operators.Logical
-Homework/Lesson1.java
- Homework.Lesson1
-Lesson3/operators/Assignment.java
- Lesson3.operators.Assignment
-Homework/Employee.java
- Homework.Employee
- Homework.EmployeeTest
-Lesson7/modifiers/GoalPack2.java
- Lesson7.modifiers.GoalPack2
-Lesson5/constructor/WithoutParametersConstr.java
- Lesson5.constructor.WithoutParametersConstr
- Lesson5.constructor.WithoutTest
-Lesson5/constructor/ConceptMethod.java
- Lesson5.constructor.ConceptMethod
- Lesson5.constructor.Sum2
-Lesson6/overloading/RunTimeErrors.java
- Lesson6.overloading.RunTimeErrors
 Lesson5/constructor/Car2.java
  Lesson5.constructor.Car2
  Lesson5.constructor.Car2Test
 Lesson3/operators/Arithmetics.java
  Lesson3.operators.Arithmetics
+Homework/Lesson2.java
+ Homework.Lesson2
 Lesson4/cl/ob/reference/data/types/PrimitiveAndReferenceDataTypes.java
  Lesson4.cl.ob.reference.data.types.PrimitiveAndReferenceDataTypes
+Lesson3/operators/Operators.java
+ Lesson3.operators.Operators
 Lesson3/operators/ProcessingSequence.java
  Lesson3.operators.ProcessingSequence
-Lesson7_1/TretiyClass.java
- Lesson7_1.TretiyClass
-Lesson7/modifiers/GoalPack1.java
- Lesson7.modifiers.GoalPack1
-Lesson7/modifiers/DrugoyClass.java
- Lesson7.modifiers.DrugoyClass
-Lesson7/modifiers/Empoyee.java
- Lesson7.modifiers.Empoyee
- Lesson7.modifiers.EmpoyeeTest
-Homework/Lesson7.java
- Homework.Lesson7
- Homework.Lesson7Test
-Homework/Lesson7Two.java
- Homework.Lesson7Two
+Lesson4/cl/ob/reference/data/types/Car.java
+ Lesson4.cl.ob.reference.data.types.Car
+ Lesson4.cl.ob.reference.data.types.CarTest
